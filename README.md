@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b9da1893-69f1-43a0-817b-4777deed567f" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f21b3d76-175c-480c-a61e-de1c88b87b1a" width="45%" />
+  <img src="" width="45%" />
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 ### 🖼️ Image 5
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-fifth-image-url-here" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f21b3d76-175c-480c-a61e-de1c88b87b1a" width="45%" />
 </p>
 
 <p align="center">
-  <em>Image 5:</em> Additional detail or summary screen
+  <em>Image 5:</em> Resume Template screen
 </p>
