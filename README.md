@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <em>Image 1:</em> Example overview screen &nbsp; | &nbsp; <em>Image 2:</em> Feature display panel
-</p>
+  <em>Home page</em> &nbsp; | &nbsp; <em>Create account</em>
 
 ---
 
@@ -16,7 +15,7 @@
 </p>
 
 <p align="center">
-  <em>Image 3:</em> Configuration window &nbsp; | &nbsp; <em>Image 4:</em> Final result screen
+  <em>Verification</em>&nbsp; | &nbsp; <em>Dashboard</em>
 </p>
 
 ---
@@ -27,5 +26,5 @@
 </p>
 
 <p align="center">
-  <em>Image 5:</em> Resume Template screen
+  <em>Template selection</em>
 </p>
