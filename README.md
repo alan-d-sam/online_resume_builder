@@ -21,3 +21,15 @@
 <p align="center">
   <em>Image 3:</em> Configuration window &nbsp; | &nbsp; <em>Image 4:</em> Final result screen
 </p>
+
+---
+
+### 🖼️ Image 5
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/your-fifth-image-url-here" width="45%" />
+</p>
+
+<p align="center">
+  <em>Image 5:</em> Additional detail or summary screen
+</p>
